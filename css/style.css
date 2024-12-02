@@ -1,0 +1,18 @@
+.lupita{
+    transition: all 0.3s;
+}
+.lupita:hover{
+    transform: scale(1.5);
+}
+
+
+li{
+    
+    background-color: rgb(255, 196, 0);
+    
+}
+
+#naveg{
+    background-color: black;
+    position: fixed;
+}
